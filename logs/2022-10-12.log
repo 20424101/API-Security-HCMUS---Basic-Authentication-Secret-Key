@@ -1,0 +1,9 @@
+info: Oct-12-2022 16:04:49: 	OK - /api/films - GET - ::1
+info: Oct-12-2022 16:07:17: 	OK - /api/films/101 - GET - ::1
+error: Oct-12-2022 16:07:50: 	500 - undefined - id is not defined - /api/films/101 - GET - ::1
+info: Oct-12-2022 16:13:41: 	OK - /api/films/ - GET - ::1
+info: Oct-12-2022 16:20:15: 	OK - /api/actors - GET - ::1
+error: Oct-12-2022 22:25:44: 	500 - undefined - connect ECONNREFUSED 127.0.0.1:3306 - /api/actors - GET - ::1
+error: Oct-12-2022 22:38:24: 	500 - undefined - connect ECONNREFUSED 127.0.0.1:3306 - /api/films - POST - ::1 - {"title":"Bụi đời chợ lớn","description":"Đây là một bộ phim hay về giang hồ Việt Nam","language_id":1}
+info: Oct-12-2022 22:55:11: 	Not Found - /api/fil - GET - ::1 - req.body: {}
+info: Oct-12-2022 22:55:32: 	OK - /api/films - GET - ::1 - req.body: {}

@@ -1,0 +1,11 @@
+{"level":"info","message":"2022-10-19T03:39:16.218Z - OK - /api/actors - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-19T03:39:21.417Z - OK - /api/actors - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-19T03:39:40.020Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-19T03:39:50.574Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-19T03:40:07.557Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-19T03:40:15.138Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-19T03:40:49.167Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-19T03:41:08.160Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-19T03:41:27.105Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-19T03:47:00.938Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-19T03:47:23.301Z - OK - /api/films/500 - GET - ::1 - req.body: {}"}

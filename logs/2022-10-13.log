@@ -1,0 +1,12 @@
+info: Oct-13-2022 11:52:02: 	Not Found - /api/actor - GET - ::1 - req.body: {}
+error: Oct-13-2022 11:52:02: 	500 - undefined - connect ECONNREFUSED 127.0.0.1:3306 - /api/actors - GET - ::1 - req.body: {}
+info: Oct-13-2022 11:52:56: 	OK - /api/actors - GET - ::1 - req.body: {}
+info: Oct-13-2022 11:52:56: 	Not Found - /favicon.ico - GET - ::1 - req.body: {}
+info: Oct-13-2022 12:20:26: 	Not Found - /api/actor - GET - ::1 - req.body: {}
+info: Oct-13-2022 12:20:57: 	Not Modified - /api/actors - GET - ::1 - req.body: {}
+info: Oct-13-2022 12:30:54: 	OK - /api/films - GET - ::1 - req.body: {}
+info: Oct-13-2022 12:33:16: 	Not Modified - /api/films - GET - ::1 - req.body: {}
+info: Oct-13-2022 12:33:24: 	OK - /api/films/500 - GET - ::1 - req.body: {}
+info: Oct-13-2022 12:36:05: 	Not Modified - /api/films - GET - ::1 - req.body: {}
+info: Oct-13-2022 12:36:08: 	Not Found - /api/fil - GET - ::1 - req.body: {}
+error: Oct-13-2022 14:22:34: 	500 - undefined - connect ECONNREFUSED 127.0.0.1:3306 - /api/films/1 - GET - ::1 - req.body: {}

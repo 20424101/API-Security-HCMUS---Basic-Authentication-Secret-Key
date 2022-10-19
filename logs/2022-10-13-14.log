@@ -1,0 +1,5 @@
+{"level":"info","message":"2022-10-13T07:40:51.512Z - OK - /api/actors - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-13T07:40:55.769Z - Not Found - /api - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-13T07:41:13.719Z - OK - /api/films/500 - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-13T07:43:08.566Z - OK - /api/films/500 - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-13T07:43:33.394Z - Created - /api/films - POST - ::1 - req.body: {\"title\":\"Bụi đời chợ lớn\",\"description\":\"Đây là một bộ phim hay về giang hồ Việt Nam\",\"language_id\":1}"}
