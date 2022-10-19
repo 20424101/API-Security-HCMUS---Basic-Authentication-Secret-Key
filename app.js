@@ -1,7 +1,16 @@
 import express from 'express';
 import morgan from 'morgan';
 
+import dotenv from 'dotenv';
+dotenv.config();
+
+import {createToken} from './helpers/token.js';
+import secretKeyAuth from './middlewares/secretKeyAuth.mdw.js';
+
 import basicAuth from './middlewares/basicAuth.mdw.js';
+
+
+
 
 import stackify from 'stackify-logger';
 
@@ -18,11 +27,29 @@ app.use(express.json());
 app.use(morgan('dev'));
 
 //BASIC AUTHENTICATION
-app.use(basicAuth);
+// app.use(basicAuth);
+
+//SECRET KEY AUTHENTICATION
+app.use(secretKeyAuth);
 
 app.get('/', function (req, res) {
   res.json({
     msg: 'API Validation'
+  });
+});
+
+app.post('/api/auth_secret_key', function (req, res) {
+  if(!req.body.url)
+    res.status(403).send({message: 'Forbidden'});
+
+  if(req.body.username !== process.env.AUTH_USER || req.body.password !== process.env.AUTH_PASSWORD)
+    res.status(403).send({message: 'Forbidden'});
+
+  const time = Date.now();
+  const url = req.body.url;
+  res.json({
+    time: time,
+    token: createToken(time, url)
   });
 });
 
