@@ -1,0 +1,8 @@
+{"level":"info","message":"2022-10-26T04:34:11.367Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"error","message":"2022-10-26T04:53:55.288Z - 500 - Internal Server Error - authorization is not defined - /api/films - GET - ::1 - req.body: {}"}
+{"level":"error","message":"2022-10-26T04:54:25.843Z - 500 - Internal Server Error - authorization is not defined - /api/films - GET - ::1 - req.body: {}"}
+{"level":"error","message":"2022-10-26T04:54:29.227Z - 500 - Internal Server Error - authorization is not defined - /api/films - GET - ::1 - req.body: {}"}
+{"level":"error","message":"2022-10-26T04:55:42.155Z - 500 - Internal Server Error - req is not defined - /api/films - GET - ::1 - req.body: {}"}
+{"level":"error","message":"2022-10-26T04:56:27.010Z - 500 - Forbidden - Cannot set headers after they are sent to the client - /api/films - GET - ::1 - req.body: {}"}
+{"level":"error","message":"2022-10-26T04:56:34.993Z - 500 - Forbidden - Cannot set headers after they are sent to the client - /api/films - GET - ::1 - req.body: {}"}
+{"level":"error","message":"2022-10-26T04:59:41.598Z - 500 - Forbidden - Cannot set headers after they are sent to the client - /api/films - GET - ::1 - req.body: {}"}

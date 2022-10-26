@@ -1,0 +1,19 @@
+{"level":"info","message":"2022-10-26T03:00:26.956Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T03:01:25.892Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T03:04:05.239Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T03:05:26.098Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T03:05:45.577Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T03:06:45.173Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T03:07:13.964Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T03:07:33.028Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T03:08:05.666Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T03:09:54.402Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T03:10:05.939Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T03:11:00.929Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T03:11:12.066Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T03:12:04.008Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T03:12:26.416Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T03:12:39.175Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T03:13:10.975Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T03:20:21.159Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T03:20:35.767Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}

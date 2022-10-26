@@ -1,0 +1,27 @@
+{"level":"info","message":"2022-10-26T13:06:07.229Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:06:41.556Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:07:01.797Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:07:14.862Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:08:50.285Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:09:00.812Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:09:51.765Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:10:11.997Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:10:40.966Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:11:42.225Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:11:58.164Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:12:09.118Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:13:34.912Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:16:03.529Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:17:24.670Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:18:40.694Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:18:50.864Z - Not Modified - /api/films - GET - ::ffff:127.0.0.1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:23:46.269Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:23:54.983Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:24:20.695Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:24:23.282Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"error","message":"2022-10-26T13:27:42.813Z - 500 - Forbidden - Cannot set headers after they are sent to the client - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:27:48.865Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"error","message":"2022-10-26T13:27:56.403Z - 500 - Forbidden - Cannot set headers after they are sent to the client - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:30:52.689Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:31:01.342Z - Not Modified - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-26T13:31:17.489Z - OK - /api/films - GET - ::1 - req.body: {}"}

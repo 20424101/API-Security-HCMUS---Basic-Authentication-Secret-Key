@@ -1,0 +1,10 @@
+{"level":"error","message":"2022-10-20T11:03:42.579Z - 500 - Forbidden - Cannot set headers after they are sent to the client - /api/films - GET - ::1 - req.body: {\"time\":1666189183207,\"token\":\"4dad15f25753a8577f2958092acb14950bd941768d27d9c80450f6fab2c34dee\"}"}
+{"level":"error","message":"2022-10-20T11:04:14.329Z - 400 - Internal Server Error - Unexpected token / in JSON at position 0 - /api/films - GET - ::1 - req.body: {}"}
+{"level":"error","message":"2022-10-20T11:04:23.788Z - 400 - Internal Server Error - Unexpected token / in JSON at position 0 - /api/films - GET - ::1 - req.body: {}"}
+{"level":"error","message":"2022-10-20T11:04:46.942Z - 400 - Internal Server Error - Unexpected token / in JSON at position 0 - /api/films - GET - ::1 - req.body: {}"}
+{"level":"error","message":"2022-10-20T11:05:07.776Z - 400 - Internal Server Error - Unexpected token / in JSON at position 0 - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-20T11:05:13.817Z - OK - /api/films - GET - ::1 - req.body: {\"time\":1666263899436,\"token\":\"fa8a9a3787bf50fdd44b18f3027ee59fd4aa297fde342b95af31d77579248b80\"}"}
+{"level":"error","message":"2022-10-20T11:05:28.182Z - 400 - Internal Server Error - Unexpected token / in JSON at position 0 - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-20T11:08:20.149Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-20T11:08:29.002Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-20T11:09:13.385Z - OK - /api/films - GET - ::1 - req.body: {}"}

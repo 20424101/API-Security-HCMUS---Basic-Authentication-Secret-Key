@@ -1,0 +1,12 @@
+{"level":"error","message":"2022-10-24T07:31:29.818Z - 500 - undefined - connect ECONNREFUSED 127.0.0.1:3306 - /api/films - GET - ::1 - req.body: {}"}
+{"level":"error","message":"2022-10-24T07:32:00.237Z - 500 - undefined - connect ECONNREFUSED 127.0.0.1:3306 - /api/films - GET - ::1 - req.body: {}"}
+{"level":"error","message":"2022-10-24T07:32:52.640Z - 500 - undefined - connect ECONNREFUSED 127.0.0.1:3306 - /api/films - GET - ::1 - req.body: {}"}
+{"level":"error","message":"2022-10-24T07:33:31.707Z - 500 - undefined - connect ECONNREFUSED 127.0.0.1:3306 - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-24T07:40:52.098Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-24T07:41:09.344Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"info","message":"2022-10-24T07:41:17.586Z - OK - /api/films - GET - ::1 - req.body: {}"}
+{"level":"error","message":"2022-10-24T07:41:31.902Z - 500 - Forbidden - Cannot set headers after they are sent to the client - /api/films - GET - ::1 - req.body: {}"}
+{"level":"error","message":"2022-10-24T07:42:03.760Z - 500 - Forbidden - Cannot set headers after they are sent to the client - /api/films - GET - ::1 - req.body: {\"time\":1666263899436,\"token\":\"fa8a9a3787bf50fdd44b18f3027ee59fd4aa297fde342b95af31d77579248b80\"}"}
+{"level":"info","message":"2022-10-24T07:42:07.443Z - OK - /api/films - GET - ::1 - req.body: {\"time\":1666597310127,\"token\":\"e1f452292aae174430f812f5fd1b4974cd8a4bf32f82f4ea85278a611e750383\"}"}
+{"level":"info","message":"2022-10-24T07:42:19.103Z - OK - /api/films - GET - ::1 - req.body: {\"time\":1666597310127,\"token\":\"e1f452292aae174430f812f5fd1b4974cd8a4bf32f82f4ea85278a611e750383\"}"}
+{"level":"error","message":"2022-10-24T07:42:48.124Z - 500 - Forbidden - Cannot set headers after they are sent to the client - /api/films - GET - ::1 - req.body: {\"time\":1666597310127,\"token\":\"e1f452292aae174430f812f5fd1b4974cd8a4bf32f82f4ea85278a611e750383\"}"}
